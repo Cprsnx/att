@@ -1,0 +1,5 @@
+var dataSources = {"brandAssets":{"path":"/ecms/attus/brandAssets","format":"json"},"enhancedSearch":{"path":"https://services.att.com/search/v1/newsroom?app-id=attnews&fq=-rejectDoc:true&callback=getResults","format":"jsonp"},"geoTargeting":{"path":"/apiservice/services-common/resources/geo/location","format":"json"},"globalNav":{"path":"/ecms/nav/navigation?navconfig=success","format":"json"},"latestStories":{"path":"./../../../ecms/attus/latestStories","format":"json"},"pledgeCount":{"path":"/apiservice/services-common/resources/icw/pledgeCount","format":"json"},"pledgeIncrement":{"path":"/apiservice/services-common/resources/icw/newPledge","format":"json"},"videoLibrary":{"path":"/ecms/attus/videoLibrary","format":"json"},"stockTicker":{"path":"/clients/us/atnt/xml/xml.aspx","format":"xml"},"userSurveyReporting":{"path":"/userpoll/usersurveyreporting","format":"json"},"userSurveyRecording":{"path":"/apiservice/services-common/resources/userpollhandler/submitUserPollData","format":"json"},"hostName":"services.att.com"};
+
+// --- Extracted from inline <script> tags (no src) ---
+
+window.detmScriptLoadType='async';
